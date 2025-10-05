@@ -1,6 +1,5 @@
 #  Maven Market Power BI Dashboard
 
-This project was created as part of the **Najot Ta’lim – Data Analysis Course (Module 5 Final Project)**.  
 The dashboard analyzes retail data from **Maven Market** to explore business performance using Microsoft Power BI.
 
 ---
